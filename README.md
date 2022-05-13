@@ -14,3 +14,4 @@ I randomly created a test data set that is approximately 10% of the full dataset
 </dl> 
 
 ### 3. Exploartory Data Analysis on Training Data
+<img src = "Image_folder/figure1.png">
