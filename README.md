@@ -12,3 +12,5 @@ Response variable is ‘Rented Bike count’ (Quantitative). Predictor variables
 I randomly created a test data set that is approximately 10% of the full dataset and treated the remaining 90% of the data set as the training data. Therefore, I get 876 observations of test data and 7884 observations for train data. Here is the link: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand </dd>
 
 </dl> 
+
+### 3. Exploartory Data Analysis on Training Data
