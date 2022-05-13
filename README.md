@@ -20,3 +20,8 @@ I randomly created a test data set that is approximately 10% of the full dataset
 <img src = "Image_folder/Figure4.png">
 <img src = "Image_folder/Figure5.png">
 
+### 4. Statistical Learning Methods
+<img src = "Image_folder/Lasso.png">
+<img src = "Image_folder/Poisson.png">
+<img src = "Image_folder/Forward_selection.png">
+
