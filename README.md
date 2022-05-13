@@ -1,4 +1,5 @@
-## Seoul Bikeshare 
+# Seoul Bikeshare
+## Author: Jaehee Lee
 
 ### 1. Abstract
 <dl>
