@@ -15,7 +15,7 @@ I randomly created a test data set that is approximately 10% of the full dataset
 
 ### 3. Exploartory Data Analysis on Training Data
 <img src = "Image_folder/Figure1.png">
-<img src = "Image_folder/Figure2.png =250x250">
+<img src = "Image_folder/Figure2.png| width=100">
 <img src = "Image_folder/Figure3.png">
 <img src = "Image_folder/Figure4.png">
 <img src = "Image_folder/Figure5.png">
